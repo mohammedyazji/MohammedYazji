@@ -22,4 +22,4 @@ I focus on architecting secure RESTful APIs, real-time systems, and integrating 
 
 * **Email:** [mw.alyazji@gmail.com](mailto:mw.alyazji@gmail.com)
 * **LinkedIn:** [linkedin.com/in/mohammed-yazji](https://www.linkedin.com/in/mohammed-yazji/)
-* **Portfolio:** [yazji-protofolio.vercel.app](https://yazji-protofolio.vercel.app/)
+* **Portfolio:** [[yazji-protofolio.vercel.app](https://yazji-protofolio.vercel.app/)](http://mohammedyazji.vercel.app/)
